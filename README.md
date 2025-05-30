@@ -1,4 +1,4 @@
-# Hi, I'm Sara 👋
+# Hi, I'm Sara 👋😺
 
 I've always believed that programming is more about communication than computing.
 
