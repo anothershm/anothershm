@@ -24,3 +24,7 @@ Most of my experience has been in domains with complex business logic — things
 - Empathy — in code, in teams, and in how we understand user needs  
 - Cultures that support deep focus and value technical quality  
 - Ownership, autonomy, and working with people who care about their craft
+
+  
+🔧 **Also building things here:**
+- 🛠️ [GreasyFork Scripts](https://greasyfork.org/en/users/1206936-anothershm) – Small automations and browser enhancements
